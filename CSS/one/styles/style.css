@@ -1,0 +1,16 @@
+p{
+    color: rgb(148, 103, 12);
+    font-family: 'Inter', sans-serif;
+}
+
+html{
+    background-color: rgb(156, 144, 128);
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
